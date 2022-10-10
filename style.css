@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background:gray ;
+}
+li h1{
+    color: aqua;
+}
+
+li h4{
+    color: blueviolet;
+}
+
+li h6{
+    color: greenyellow;
+}
+ul{
+    color:magenta
+}
+
+.box1{
+    height: 300px;
+    width: 300px;
+    background: magenta;
+}
+.box2{
+    height:200px;
+    width:300px ;
+    background:chocolate ;
+}
+.box3{
+    height: 50px;
+    width:100px ;
+    border: 3px solid black;
+}
